@@ -1,0 +1,53 @@
+fieldset.field {
+    width: 400;
+    padding-bottom: 50;
+    border: 1px;
+}
+body{
+	background-repeat:no-repeat;
+	  background-size:cover;
+
+}
+
+#r1{  
+border-radius: 50px;
+font-size:25px;
+  /*padding: 20px;*/
+
+	
+}
+table.mydata {
+    border-spacing: 15px;
+	  border-radius: 25px;
+	  	border: 2px solid black ;
+
+
+}
+input.mysubmit{
+    height: 40px;
+    width: 150px;
+    position: center;
+    background-color: red;
+    color: white;
+
+}
+.mysubmit:hover{
+	background-color:black;
+}
+input.mytxt{
+    height: 40px;
+    width: 300px;
+
+}
+img{
+	width:250px;
+	height:250px ;
+  border-radius: 50%;
+
+	/*  transition: transform .2s;*/
+
+}
+
+/*img:hover{
+	transform:scale(1.5);
+}*/
